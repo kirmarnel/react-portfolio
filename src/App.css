@@ -1,0 +1,27 @@
+#hero {
+width: 100%
+}
+
+
+#projectTitle {
+    text-align: center;
+    margin: 10px;
+}
+
+#projectPic {
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+    border: solid black;
+    border-radius: 8px;
+}
+
+#projectPic:hover {
+    box-shadow: 5px 5px rgb(168, 167, 167);
+}
+
+#title {
+    text-align: center;
+    margin: 20px;
+}
